@@ -4,3 +4,4 @@ To see the object declaration, kindly see the Models folder and Data Transfer Ob
 For the Data Access Layer context, kindly see the Repository folder. 
 For the Dependency Injection, kindly refer to the IService.cs file for declaration and Service.cs file for implementation for Business Layer. 
 For Data Access Layer Dependecy Injection, kindly refer to the IRepository.cs file for declararion and Reporsitory.cs for implementation. 
+For database connection build, kindly see the Data folder. For other files that generally commonly use in this application, kindly see the Common folder.
